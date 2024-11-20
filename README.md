@@ -7,11 +7,11 @@ Currently in the fourth year of undergraduate studies in Economics, with a solid
 ### 🛠️ Technical Skills
 - **Programming Languages**: Python
 - **Data Science Libraries**: Scikit-learn, Pandas, Seaborn
-- **Tools & Frameworks**: Git, Jupyter Notebooks, TensorFlow/Keras
+- **Tools & Frameworks**: Git, Jupyter Notebooks, TensorFlow/Keras, Pyspark
 
 ### 💼 Selected Projects
 1. **Health Insurance Claim**: Applied regression analysis to predict health insurance claims by evaluating customer demographics and health factors. This project aimed to estimate future claim costs, offering valuable insights for refining premium-setting and risk assessment strategies in the insurance industry.
-2. **Forecasting GDP Per Capita in the US**: Developed a forecasting model to predict US GDP per capita using historical macroeconomic data. The model integrated traditional econometric techniques with machine learning methods to project economic conditions one year ahead, incorporating indicators such as unemployment rates, inflation, and consumer confidence.
+2. **Predicting Individual Savings**: Developed a Random Forest model to predict individual savings potential using over 22,000 financial data points, identifying key predictors such as age and checking account balance to inform targeted financial strategies. Conducted advanced data preprocessing and cluster analysis to uncover savings patterns, enhancing model accuracy and providing actionable insights for personalized financial planning.
 3. **Credit Card Offer Acceptance**: Designed a predictive model to estimate the likelihood of customers accepting credit card offers based on their demographic and financial profiles. The project focused on identifying key factors influencing acceptance to enhance marketing strategies and improve the effectiveness of promotional campaigns.
 
 For more details, please explore the repositories containing the full implementations and analyses.

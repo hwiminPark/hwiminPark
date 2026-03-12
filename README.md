@@ -28,7 +28,10 @@ Open to **Data Engineer / Data Scientist** roles across Canada.
 ### Selected Projects
 
 **Semantic Book Recommender Pipeline**  
-- End-to-end batch ETL + semantic search engine using New York Times Best Sellers data  
+- End-to-end batch ETL + semantic search engine using New York Times Best Sellers data
+
+**Airbnb Data ETL & Analytics Pipeline**
+- Built ELT pipeline: AWS S3 → Snowflake → dbt Core (Medallion layers), with incremental models, SCD Type-2, star schema + OBT, tests, Jinja macros, and docs for BI ready analytics
 
 **Residential Water Demand Modeling**  
 - Econometric models + interactive Streamlit app for City of Calgary policy simulation (price elasticity -0.2, high temp responsiveness).

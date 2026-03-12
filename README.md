@@ -9,7 +9,7 @@
 </p>
 
 ### About Me
-I'm a Master's in Data Science student at UBC Okanagan (expected June 2026), with a BA in Economics (GPA 3.95/4.0, UCalgary) and minor in Data Science. Passionate about turning data into actionable insights and scalable pipelines. Currently building ETL workflows (Airflow, Databricks, GCS) to transition toward data engineering while applying ML skills in predictive modeling and econometrics.
+I'm a Master's in Data Science student at UBC, with a BA in Economics (UCalgary). Passionate about turning data into actionable insights and scalable pipelines. Currently building ETL workflows (Airflow, Databricks, GCS) to transition toward data engineering while applying ML skills in predictive modeling and econometrics.
 
 Open to **Data Engineer / Data Scientist** roles across Canada.
 
